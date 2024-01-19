@@ -136,3 +136,5 @@ dmypy.json
 p0.prof
 None/
 
+bin
+pyenv.cfg
