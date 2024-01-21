@@ -138,3 +138,7 @@ None/
 
 bin
 pyenv.cfg
+*_API_KEY
+readme_logs
+share
+pyvenv.cfg
